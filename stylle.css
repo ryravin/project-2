@@ -1,0 +1,22 @@
+h1{
+    background-color: #0b1b61;
+    color: white;
+}
+table{
+    width: 90%;
+    text-align: center;
+}table th,td{
+    border: 1px solid black;
+}
+.n{
+    background-color:#0b1b61;
+}
+.b{
+    width: 30px;
+}
+body{
+background-color: antiquewhite;
+}
+h6{
+    color: aqua;
+}
